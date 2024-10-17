@@ -31,9 +31,11 @@ h2.web {
 
 .button-template {
     text-decoration: none;
+    color: black;
     text-align: center;
     margin: auto;
     width: 50%;
     border-style: solid;
     border-radius: 30px;
+    padding: 10%
 }
