@@ -28,3 +28,12 @@ div.web {
 h2.web {
     text-align: center;
 }
+
+.button-template {
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 30px;
+}
