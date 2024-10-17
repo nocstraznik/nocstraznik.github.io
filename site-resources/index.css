@@ -1,12 +1,30 @@
+/* Page CSS */
+
 div.main {
     font-family: sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+
+/* General Programming Tools Section */
 div.general {
     border-style: dashed;
     border-color: red;
 }
+h2.general {
+    text-align: center;
+}
+
+/* HTML, CSS, and JavaScript */
 div.web {
     border-style: dotted;
     border-color: blue;
+}
+h2.web {
+    text-align: center;
 }
