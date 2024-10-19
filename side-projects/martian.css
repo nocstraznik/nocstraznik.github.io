@@ -6,9 +6,7 @@ body {
 .potato {
     background-image: url("https://science.nasa.gov/wp-content/uploads/2023/09/6453_mars-globe-valles-marineris-enhanced-full2.jpg?w=4096&format=jpeg");
     background-color: #cc3300;
-    background-attachment: scroll;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
   }
@@ -35,6 +33,6 @@ body {
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #3b3b3b;
     color: black;
   }
