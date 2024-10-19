@@ -17,8 +17,7 @@ body {
     position: absolute;
     padding: 100px;
     color: white;
-    margin-top: 50vh;
-    margin-bottom: 200px;
+    margin: 10px 10%;
   }
 
   table {
@@ -30,6 +29,5 @@ body {
   
   td, th {
     border: 1px solid #dddddd;
-    text-align: left;
     padding: 8px;
   }
