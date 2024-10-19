@@ -8,8 +8,8 @@ body {
     background-image: url("https://science.nasa.gov/wp-content/uploads/2023/09/6453_mars-globe-valles-marineris-enhanced-full2.jpg?w=4096&format=jpeg");
     background-color: #cc3300;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100vh;
   }
   
@@ -23,7 +23,7 @@ body {
     margin-top: 50vh;
     margin-bottom: 200px;
   }
-  
+
   table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -39,5 +39,4 @@ body {
   
   tr:nth-child(even) {
     background-color: #3b3b3b;
-    color: black;
   }
