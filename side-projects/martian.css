@@ -36,7 +36,3 @@ body {
     text-align: left;
     padding: 8px;
   }
-  
-  tr:nth-child(even) {
-    background-color: #e9e9e9;
-  }
